@@ -5,6 +5,6 @@ Introduction To Javascript, and Variables, Data Type 2
 Print the values stored in the variable on one line followed by the type of
 the variable in the next line */
 
-var name = "Subham"
+var name = "Subham"     //change the value and check the result.
 var age = 22
 console.log("My Name is: "+ name + " and I'm "+age+" years old."+"\n"+ "type of name var is: "+typeof(name)+ " and type of age var is: "+typeof(age));

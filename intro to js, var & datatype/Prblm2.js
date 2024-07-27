@@ -6,7 +6,7 @@ Print the value stored in the variable name
 Change the variable again to store your city
 Print the value stored in the variable name */
 
-var name = "Subham"
+var name = "Subham"             //change the value and check the result.
 console.log("First NAme: "+name);
 var name1 = "Awasthi"
 console.log("Last NAme: "+name1);
